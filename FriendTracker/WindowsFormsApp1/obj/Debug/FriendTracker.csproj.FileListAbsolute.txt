@@ -1,0 +1,15 @@
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\FriendTracker.csproj.AssemblyReference.cache
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InteractionForm.resources
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\FriendTracker.csproj.GenerateResource.cache
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\FriendTracker.csproj.CoreCompileInputs.cache
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\FriendTr.44FC7F84.Up2Date
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\github\friend_tracker\FriendTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

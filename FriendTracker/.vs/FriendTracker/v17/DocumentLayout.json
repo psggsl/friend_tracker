@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\friend_tracker\\FriendTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|d:\\github\\friend_tracker\\friendtracker\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|d:\\github\\friend_tracker\\friendtracker\\windowsformsapp1\\interactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\interactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|d:\\github\\friend_tracker\\friendtracker\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\interactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\interactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\FriendTracker.csproj|solutionrelative:windowsformsapp1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\interactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\interactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github\\friend_tracker\\FriendTracker\\windowsformsapp1\\interactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8680444A-5AD1-4E45-853B-F8CB3AC8DE57}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\interactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|D:\\github\\friend_tracker\\FriendTracker\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:58:10.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteractionForm.Designer.cs",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InteractionForm.Designer.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\InteractionForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:36:57.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractionForm.cs",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InteractionForm.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\InteractionForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:28:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:16:47.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-17T14:33:54.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:58:40.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.resx",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.resx",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-17T15:46:28.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Friend.cs",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Friend.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Friend.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Friend.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Friend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:44:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:36:13.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InteractionForm.cs",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InteractionForm.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\InteractionForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:02:05.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InteractionForm.cs [Design]",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InteractionForm.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\InteractionForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\InteractionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:55:05.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\github\\friend_tracker\\FriendTracker\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:55:37.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
